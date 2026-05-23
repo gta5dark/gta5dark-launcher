@@ -1,1 +1,32 @@
-test...
+[
+  {
+    "version": "v1.2",
+    "date_en": "May 23",
+    "date_de": "23. Mai",
+    "title_en": "Smart Update System v1.2",
+    "title_de": "Smart Update System v1.2",
+    "desc_en": "Added interactive UI state machine for client updates. Users can now download and install patches directly inside the launcher dashboard.",
+    "desc_de": "Interaktive UI-Zustandsmaschine für Client-Updates hinzugefügt. Updates können jetzt direkt über das Dashboard geladen und installiert werden.",
+    "live": true
+  },
+  {
+    "version": "v1.1",
+    "date_en": "May 15",
+    "date_de": "15. Mai",
+    "title_en": "Performance & Sync Fixes v1.1",
+    "title_de": "Performance & Sync Fixes v1.1",
+    "desc_en": "Optimized connection nodes to reduce voice-chat latency. Fixed texture streaming memory leaks during high-speed driving in downtown areas.",
+    "desc_de": "Verbindungsknoten optimiert, um die Latenz im Voice-Chat zu verringern. Memory Leaks beim Texturen-Streaming in der Innenstadt behoben.",
+    "live": false
+  },
+  {
+    "version": "v1.0",
+    "date_en": "May 01",
+    "date_de": "01. Mai",
+    "title_en": "Alpha Core Launch v1.0",
+    "title_de": "Alpha Core Start v1.0",
+    "desc_en": "Initial release of the custom launcher core. Integrated RAGE:MP integrity checks and local file verification pipelines.",
+    "desc_de": "Erster Release des Launchers. Integrierte RAGE:MP Integritätsprüfungen und lokale Datei-Verifikations-Pipelines.",
+    "live": false
+  }
+]
